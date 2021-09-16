@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/morse/static/css/main.8d63c56d.chunk.css",
+    "main.js": "/morse/static/js/main.1c12a42a.chunk.js",
+    "main.js.map": "/morse/static/js/main.1c12a42a.chunk.js.map",
+    "runtime-main.js": "/morse/static/js/runtime-main.33646139.js",
+    "runtime-main.js.map": "/morse/static/js/runtime-main.33646139.js.map",
+    "static/js/2.cb350622.chunk.js": "/morse/static/js/2.cb350622.chunk.js",
+    "static/js/2.cb350622.chunk.js.map": "/morse/static/js/2.cb350622.chunk.js.map",
+    "index.html": "/morse/index.html",
+    "precache-manifest.dea5ca72969f23b294d795b893c3cc2f.js": "/morse/precache-manifest.dea5ca72969f23b294d795b893c3cc2f.js",
+    "service-worker.js": "/morse/service-worker.js",
+    "static/css/main.8d63c56d.chunk.css.map": "/morse/static/css/main.8d63c56d.chunk.css.map",
+    "static/js/2.cb350622.chunk.js.LICENSE": "/morse/static/js/2.cb350622.chunk.js.LICENSE",
+    "static/media/electronic_key.jpg": "/morse/static/media/electronic_key.cd2cf560.jpg",
+    "static/media/straight_key.jpg": "/morse/static/media/straight_key.f140bc7b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33646139.js",
+    "static/js/2.cb350622.chunk.js",
+    "static/css/main.8d63c56d.chunk.css",
+    "static/js/main.1c12a42a.chunk.js"
+  ]
+}
